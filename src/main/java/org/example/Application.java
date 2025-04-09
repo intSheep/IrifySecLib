@@ -12,6 +12,6 @@ public class Application {
 
 
         SpringApplication.run(Application.class, args);
-        log.info("==================JavaSecLab启动成功================");
+        log.info("==================IrifySecLab启动成功================");
     }
 }
